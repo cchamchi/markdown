@@ -3,7 +3,7 @@
 ## hi
 
 
-[goole][g-link]
+
 
 [g-link]:https://www.google.com
 
